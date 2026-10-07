@@ -1,7 +1,3 @@
-Great, Buvanesh! 👍 I have enough information to make a good beginner-level professional GitHub profile for you.
-
-Here is your customized version:
-
 # Hi there, I'm Buvanesh U 👋
 
 🎓 B.Tech Information Technology Student | 💻 Beginner C Programmer | 🚀 Aspiring Software Developer
